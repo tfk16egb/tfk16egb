@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @tfk16egb
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning OODP 2
 - 📫 How to reach me emil.bergman97@hotmail.com
 
 <!---
